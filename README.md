@@ -14,7 +14,7 @@
 </div> <br>
   
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <h2>🛠 Tecnologias</h2>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
 </div> <br>
   
   
-<div> 
+<div align="center"> 
   <h2>🤝🏻 Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/amanda-bartolo-380619119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5561996697319" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
