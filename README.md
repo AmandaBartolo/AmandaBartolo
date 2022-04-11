@@ -1,11 +1,11 @@
 ### Olá, eu sou a Amanda! ✨
 
-<h2>Sobre mim 👩🏻‍💻 </h2>
-
+<div>
+<h2 align="center">Sobre mim 👩🏻‍💻 </h2>
 <p> 🌈 Tenho 26 anos e sou formada em Medicina Veterinária. Após ver que não era isso o que eu queria, resolvi me jogar no mundo da programação. Sempre gostei muito de tecnologia, então estar aprendendo sobre essa área está sendo muito gratificante. </p>
-
 <p> 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas </p>
 <p> 💻 Foco inicial voltado para o Front-End </p>
+</div>
 
 <div align="center">
   <a href="https://github.com/amandabartolo">
